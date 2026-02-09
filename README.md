@@ -4,7 +4,7 @@
 Soy estudiante de **5to semestre de Ingeniería de Sistemas**, apasionado por la arquitectura de software y el desarrollo de soluciones robustas en el lado del servidor. Actualmente, estoy enfocado en profundizar mis conocimientos en el ecosistema de **Java** y **Spring Boot** para construir APIs escalables y eficientes.
 
 - 🎯 **Meta actual:** Conseguir mi primera oportunidad como Pasante o Junior Backend Developer.
-- 🚀 **En qué estoy trabajando:** Fortaleciendo mis bases en Spring Security y despliegue de microservicios.
+- 🚀 **En qué estoy trabajando:** Fortaleciendo mis bases en Spring Boot y diseño de APIs rodustas.
 - 🎓 **Educación:** Ingeniería de Sistemas (5to Semestre).
 
 ---
