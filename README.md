@@ -19,7 +19,7 @@ Soy estudiante de **5to semestre de Ingeniería de Sistemas**, apasionado por la
 | **Bases de Datos** | MySQL, PostgreSQL, MongoDB |
 
 ---
-
+<!--
 ### 📂 Mis Proyectos Destacados
 *Aquí irán apareciendo mis proyectos más importantes:*
 
@@ -27,11 +27,11 @@ Soy estudiante de **5to semestre de Ingeniería de Sistemas**, apasionado por la
 2.  **[Retos de Lógica]** - Repositorio con soluciones a algoritmos en Java.
 
 ---
-
+-->
 ### 📫 Contacto
 ¿Quieres charlar sobre tecnología o alguna oportunidad?
-- **LinkedIn:** [tu-usuario-aqui](https://linkedin.com/in/tu-usuario)
-- **Correo:** tu-email@ejemplo.com
+- **LinkedIn:** [Jairo Jimenez Arzuza](www.linkedin.com/in/jairo-jimenez-arzuza)
+- **Correo:** jairodanieljimeneza2025@gmail.com
 
 ---
 
