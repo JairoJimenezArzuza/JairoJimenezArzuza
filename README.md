@@ -14,7 +14,7 @@ Soy estudiante de **5to semestre de Ingeniería de Sistemas**, apasionado por la
 ---
 
 <h3 align="left">🛠️ Tecnologías y Herramientas</h3>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bash,git,java,linux,mongodb,mysql,spring" />
 </p>
 
